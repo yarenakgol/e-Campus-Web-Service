@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="b23deafc-ca58-44dd-a1c3-fdd5424ebb1a" name="eKampus" url="jdbc:h2:file:~/h2/eKampus" driverClass="org.h2.Driver" />
+    </data-sources>
+  </component>
+</project>
